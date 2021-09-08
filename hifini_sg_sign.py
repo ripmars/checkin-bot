@@ -13,7 +13,7 @@ import re
 header = {
             'referer': 'https://www.hifini.com/',
             'cookie': 'insert your cookie here',
-            'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36'
+            'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/527.36 (KHTML, like Gecko) Chrome/92.0.3515.151 Safari/527.36'
         }
 
 # myurl='https://www.hifini.com/my.htm'
